@@ -1,2 +1,2 @@
 # 3dGlobe
-![Screenshot](world.jpg)
+![Screenshot](Screenshot (323).png)
