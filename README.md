@@ -1,2 +1,2 @@
 # 3dGlobe
-![Screenshot](Screenshot (323).png)
+![Screenshot](Screenshot(323).png)
